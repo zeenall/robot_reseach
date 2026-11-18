@@ -1,0 +1,7 @@
+*.pt binary
+*.pth binary
+*.pkl binary
+*.xz binary
+*.csv text eol=lf
+*.py text eol=lf
+*.md text eol=lf
