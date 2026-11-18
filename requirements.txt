@@ -1,0 +1,10 @@
+# Tested for the Results 37 CPU benchmark in Kaggle Python 3.13.16.
+# An installed PyTorch build can be used instead of downloading a replacement.
+numpy>=2.0,<3
+scipy>=1.12
+pandas>=2.0
+matplotlib>=3.8
+natsort>=8.4
+# PyTorch was 2.11.0+cu130 in the measured Kaggle image.
+# torch is an explicit direct dependency; use matching version for strict timing reproduction.
+torch>=2.4

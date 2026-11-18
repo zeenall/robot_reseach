@@ -1,0 +1,3 @@
+cohort,expanded,skipped,expansion_rate,skipped_worse_than_K4,skipped_equal_K4,mean_skipped_penalty,max_skipped_penalty
+MIXED_501,331,170,0.6606786427145709,59,111,0.4252021274459063,6.263503747439152
+SADCHER_300,190,110,0.6333333333333333,33,77,0.3041268378791646,3.146775195552614

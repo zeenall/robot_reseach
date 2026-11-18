@@ -1,0 +1,11 @@
+{
+  "direction": "small_gap",
+  "threshold": 0.07538408036670655,
+  "n_val": 72,
+  "mean_cost": 25.496853795841314,
+  "loss_vs_K4_pct": 0.4009244660236888,
+  "mean_time_estimated_s": 1.3074133271388897,
+  "expansion_rate": 0.6527777777777778,
+  "mean_rollouts": 3.3055555555555554,
+  "success_rate": 1.0
+}
